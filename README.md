@@ -1,10 +1,11 @@
 
-<<<<<<< HEAD
 
 
-=======
+# 一个静态日志管理系统
+
 https://synbe.github.io
->>>>>>> 8e4ceaf0988bfede1f87a50a94ca7afd62604acb
+
+![](./assets/jsblog.png)
 
 这是一个静态日志管理系统，纯js，不依赖后端服务器，欢迎批评改进！
 
@@ -38,5 +39,4 @@ https://synbe.github.io
 ### 联系
 
 - 邮箱：421103218@qq.com
-
 
